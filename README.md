@@ -4,7 +4,7 @@ Attractive design with responsive and interactive website.
 
 # Features:
 * About Section
-* Nav Header with logo
+* Navigation Header with logo
 * Showcased Features
 * Social media links integrations
-* Contact form
+* Contacts form
