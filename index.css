@@ -11,6 +11,11 @@ h1 {
   margin-top: 5px;
 }
 
+tr {
+  color: green;
+  font-size:35px
+}
+
 /* Applies to all elements with <... class="someclass"> specified. */
 .someclass { color: red; }
 
