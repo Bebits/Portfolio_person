@@ -20,3 +20,6 @@ tr {
 .someclass { color: red; }
 
 #someid { color: green; }
+a{
+cursor:pointer;
+}
