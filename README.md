@@ -1,6 +1,6 @@
 # Portfolio_person
-This is the minimal portfolio for a person.
-Attractive design with responsive and interactive website. 
+This is the minimal portfolio template for an individual.
+Attractive design with responsive and interactive interface. 
 
 # Features:
 * About Section
@@ -8,3 +8,4 @@ Attractive design with responsive and interactive website.
 * Showcased Features
 * Social media links integrations
 * Contacts form
+* Open Source
