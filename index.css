@@ -15,6 +15,9 @@ tr {
   color: green;
   font-size:35px
 }
+td {
+  border: 1px solid;
+}
 
 /* Applies to all elements with <... class="someclass"> specified. */
 .someclass { color: red; }
