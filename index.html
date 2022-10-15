@@ -28,6 +28,17 @@ body {
   padding: 20px;
   border-radius: 4px;
 }
+#editBtn {
+    width: 300px;
+    padding: 10px;
+    font-size:20px;
+    position: absolute;
+    margin: 0 auto;
+    right: 0;
+    left: 0;
+    bottom: 50px;
+    z-index: 9999;
+}
 
 #myBtn:hover {
   background-color: #555;
@@ -508,6 +519,7 @@ body {
 </footer>
           <!--footer ended-->
 <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+<button onclick="editFunction()" id="editBtn" title="Edit">Edit</button>
 
 
 
@@ -530,6 +542,9 @@ function scrollFunction() {
 function topFunction() {
   document.body.scrollTop = 0;
   document.documentElement.scrollTop = 0;
+}
+  function editFunction() {
+  console.log('edit');
 }
 </script>
 
